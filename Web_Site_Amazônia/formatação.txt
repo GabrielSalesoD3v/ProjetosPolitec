@@ -1,0 +1,29 @@
+Conteúdo
+	imagem de fundo - (fotos/fundo.jpg)
+
+Titulo 1
+	fonte - Arial
+	tamanho da fonte - 28px
+	cor - #FFFF00
+	negrito
+
+Titulo 2
+	fonte - Arial
+	tamanho da fonte - 22px
+	cor - #030
+	negrito
+
+Parágrafo
+	fonte - Verdana
+	tamanho da fonte - 14px
+	cor - #FFF
+	alinhamento - justificado
+	largura - 850px
+
+imagens 
+	estilo da borda - solida
+	tamanho da borda - 4px
+	cor da borda - #FFF
+	largura - 200px
+	altura - 150px
+
