@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:ital,wght@0,400;1,300&family=Silkscreen:wght@400;700&family=Sixtyfour&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+*{
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background-image: url(assets/img/index/Background_Internet.png);
+    background-size: 100%;
+    background-attachment:fixed;
+}
+
+h1{
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    font-style: normal;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 8px;
+    border-style: solid;
+    border-width: 7px;
+    border-radius: 10px;
+}
+
+ul {
+    margin-top: 85px;
+    
+}
+
+ul li {
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+    margin-bottom: 20px;
+    
+   
+}
+
+ul a {
+    font-family: 'Courier New', Courier, monospace ; 
+    font-size: 30px ;
+    color: white;
+}
+
+.hover_1:hover{
+    color: #fa9a2c;
+    transition: 0.6s ;
+}
+
+.hover_2:hover{
+    color: #6d70ff;
+    transition: 0.6s ;
+}
+
+.hover_3:hover{
+    color: #00ff37;
+    transition: 0.6s ;
+}
+
+img{
+    margin-left: 95px;
+}
+
+.img1{
+    height: 200px;
+    width: 300px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #fc9621;
+
+}
+
+.img2{
+    height: 200px;
+    width: 300px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #6265ff;
+
+}
+
+.img3{
+    height: 200px;
+    width: 300px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #86ff61;
+}
